@@ -27,7 +27,8 @@
      https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Add%20custom%20handler.md
 
 
-** Additionally if you wan tto clone the project , you can do it from main branch.
+
+** Additionally if you want to clone the project in your editor to check the artifacts and resukt, you can do it from main branch.
    
 
 
