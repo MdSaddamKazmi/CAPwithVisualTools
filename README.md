@@ -1,7 +1,7 @@
 # CAPwithVisualTools
 
 
-* This repo will help in learning SAP CAP (Cloud Application Programming) . The details are based on "CAP with Node.js" and UI has been created with Fiori elements template.
+* This repo will help in learning SAP CAP (Cloud Application Programming) . The details are based on "CAP with Node.js using Visual Tools" and UI has been created with Fiori elements template.
 
 * Prerequisites :
   * You have BAS ( Business application studio ) editor. If not , you can create an account on https://account.hanatrial.ondemand.com/trial/#/home/trial and get access of BAS.
