@@ -15,7 +15,20 @@
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/9ad33829-6eaf-4834-9f14-9bdf5a9649cc)
 * Click on "Configure page"
   
-  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/451191d0-d79e-4e8c-ad8c-dbb081edbd3e)
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/742e92be-79e1-4085-b902-ed082f2c58d5)
+* Add field for filter
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/a2a9b4a7-614b-4fb6-a921-ee4967c028ad)
+* Go back to "Page map"
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/3ab5c824-74c4-41c3-b243-7520d5ef5c74)
+* Click " configure page" for object page
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/af42dedc-1251-4ba7-a38b-c9ef6fba7a93)
+
+
+
+
 
  
 
