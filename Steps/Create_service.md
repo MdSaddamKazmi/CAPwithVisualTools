@@ -11,7 +11,8 @@
   
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/81751290-1378-4360-b086-11319bd0adf9)
 * Repeat the steps to create service entity for Student.
-  ![Uploading image.png…]()
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/da992471-fa62-4557-b1e4-202db381a225)
+
 
 
 
