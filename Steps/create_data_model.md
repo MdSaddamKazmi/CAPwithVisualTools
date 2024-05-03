@@ -1,6 +1,8 @@
 * Click on "Data models" and choose + icon and click on "create".
+  
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/c9d6482c-804b-4c14-836f-3fe5d01b2b4d)
 * You will see below initial model
+  
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/b860161b-c85f-4097-8012-f5bf58a6bcd9)
 * Click on "entity" and click on "show details".
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/248220ab-30df-4dda-b4a4-1109a943db56)
