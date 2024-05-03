@@ -17,6 +17,9 @@
   
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/371d34c3-ab66-436a-b6f2-68483a4b0fe5)
 * Add the fields as below:
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/1d579ad3-2f22-49d8-9605-264b282a035d)
+
   
 
 
