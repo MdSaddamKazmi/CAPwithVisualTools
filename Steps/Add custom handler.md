@@ -7,6 +7,15 @@
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/7e9f99ad-27ce-4a0c-bbb6-ca30af183e29)
 
+* Click on "run and debug"
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/cd8bd799-50f4-43c0-9065-33e7da5e564c)
+
+* Check the UI that opens
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/55955a9f-ef75-4f53-b57a-ef5f6e0e3263)
+
+  
+
 
 
   
