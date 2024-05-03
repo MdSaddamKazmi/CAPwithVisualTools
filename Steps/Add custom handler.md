@@ -5,7 +5,8 @@
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/7dd1b40f-1aa9-49ff-8347-a9463c1468e6)
 * Click on "open code editor" and write the code
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/7e9f99ad-27ce-4a0c-bbb6-ca30af183e29)
+
 
 
   
