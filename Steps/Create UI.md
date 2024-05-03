@@ -1,1 +1,19 @@
+* Click on + icon on UI applications.
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/4200fd38-6f4f-46ff-9bd2-ba68ae1ed582)
+* Pass the display name ,application name and description as "School"
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/490e1f29-860c-4971-9f26-3eeef49a4ec7)
+* Choose "Template based" UI application type. Choose "List Report" page.
+* Choose main entity as "School" and navigation entity as "students".
+* Repeat the steps for Student UI.
+* Finally your storyboard will be as below :
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/e00defde-8547-4ee0-8be8-2ecfcb039ca0)
+* Click on School UI and click on "Open in page map".
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/9ad33829-6eaf-4834-9f14-9bdf5a9649cc)
+* Click on "Configure page"
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/451191d0-d79e-4e8c-ad8c-dbb081edbd3e)
+
+ 
+
+  
+  
 
