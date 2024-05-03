@@ -25,6 +25,9 @@
      https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Create%20UI.md
   * Add custom handler
      https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Add%20custom%20handler.md
+
+
+** Additionally if you wan tto clone the project , you can do it from main branch.
    
 
 
