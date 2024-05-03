@@ -13,6 +13,16 @@
 * Repeat the steps to create service entity for Student.
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/da992471-fa62-4557-b1e4-202db381a225)
 
+* Check "storyboard" now.
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/a5605351-56b8-497f-802c-d4c0d8ac4ef4)
+
+* Check service.cds file
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/d47e6b47-b487-4ed4-9f9e-d7c5123bc344)
+
+
+  
+
+
 
 
 
