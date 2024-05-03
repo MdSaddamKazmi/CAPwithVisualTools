@@ -7,6 +7,13 @@
 * Select MdSaddamKazmi.StudentDetails.School
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/565ba6e4-6d8b-4d6d-8a91-ae34e2f17a65)
+* Click on "save"
+  
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/81751290-1378-4360-b086-11319bd0adf9)
+* Repeat the steps to create service entity for Student.
+  ![Uploading image.png…]()
+
+
 
 
 
