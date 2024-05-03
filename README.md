@@ -15,7 +15,16 @@
     ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/71d8bbec-23e2-4511-80e0-05e61591536d)
 
  * Follow the steps mentioned as below :
-   https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/create_data_model.md
+  * Create Project
+     https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/create%20project.md
+  * Create data model
+     https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/create_data_model.md
+  * Create Service
+     https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Create_service.md
+  * Create UI
+     https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Create%20UI.md
+  * Add custom handler
+     https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/Add%20custom%20handler.md
    
 
 
