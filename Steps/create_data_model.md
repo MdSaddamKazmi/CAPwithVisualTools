@@ -19,6 +19,13 @@
 * Add the fields as below:
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/1d579ad3-2f22-49d8-9605-264b282a035d)
+* Click on School entity and click on "relationship".
+  
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/94be18cb-2f4a-4859-852e-f61b14631f90)
+* Drag the arrow to student entity. A pop up opens. Pass below values.
+  
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/bd60185d-2497-46ff-9874-7071532c9a28)
+
 
   
 
