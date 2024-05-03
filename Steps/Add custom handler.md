@@ -14,6 +14,8 @@
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/55955a9f-ef75-4f53-b57a-ef5f6e0e3263)
 
+* Click on school app and test
+
   
 
 
