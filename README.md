@@ -14,6 +14,10 @@
     ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/c03f40b1-dbf7-4b01-aba7-c62fb978e6a3)
     ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/71d8bbec-23e2-4511-80e0-05e61591536d)
 
+ * Follow the steps mentioned as below :
+   https://github.com/MdSaddamKazmi/CAPwithVisualTools/blob/master/Steps/create_data_model.md
+   
+
 
 
 
