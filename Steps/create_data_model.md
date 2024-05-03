@@ -25,6 +25,14 @@
 * Drag the arrow to student entity. A pop up opens. Pass below values.
   
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/bd60185d-2497-46ff-9874-7071532c9a28)
+* If you want to check what got created in folder. You can click on "Explorer" and open file schema.cds in db folder.
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/14b95662-9808-471f-9f42-9770680239b7)
+
+  ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/ee83ae7f-0e4d-47ba-bd27-adf26a527041)
+
+
+
 
 
   
