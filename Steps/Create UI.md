@@ -25,9 +25,10 @@
 * Click " configure page" for object page
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/af42dedc-1251-4ba7-a38b-c9ef6fba7a93)
-* Add changed for Students
+* Add changes for Students
 
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/1f4449f6-0b8a-4f07-b090-9c0c32dfc399)
+* Repeat the step for student UI .Add selection field and no other chnage.
   ![image](https://github.com/MdSaddamKazmi/CAPwithVisualTools/assets/54942497/442618dc-cc76-449d-80e3-fae4393aa58a)
 
 
